@@ -1,1 +1,5 @@
-This project aim to teach us how to deploy web flask app on a server
+# 0x1A-application_server
+
+## Description
+How to deploy our web flask app on a server
+
